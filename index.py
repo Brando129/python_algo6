@@ -1,4 +1,4 @@
-# Given an array, print and return the max, min and average values for that array.
+# Given a list, print and return the max, min and average values for that list.
 
 def max_min_avg(list):
     max = 0

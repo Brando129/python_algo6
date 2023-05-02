@@ -16,7 +16,8 @@ def max_min_avg(list):
         avg = sum/len(list)
 
     print(f"The maximum is: {max}, the minimum is: {min}, and the average is: {int(avg)}")
-
+    
+    return max, min, int(avg)
 
 
 print(max_min_avg([2,5,2]))
